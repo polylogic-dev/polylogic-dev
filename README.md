@@ -1,16 +1,14 @@
-## Hi there 👋
+# polylogic 🧠
 
-<!--
-**polylogic-dev/polylogic-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m a systems thinker with a love for abstract logic, elegant code, and big questions.
 
-Here are some ideas to get you started:
+I build tools that explore:
+- 🧪 Emergent behavior
+- 🧭 Cognitive UIs
+- 📚 Algorithmic philosophy
+- 🔍 Visualization of truth, structure, and complexity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech I use:  
+`TypeScript` · `Python` · `Rust` · `Next.js` · `D3.js` · `Django`
+
+📍 If code can teach you something about the world, I’ll probably build it.
